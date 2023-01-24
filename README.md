@@ -1,4 +1,4 @@
-# SpeedCodesAgencyProject
+# Speed.Codes Agency website
 
 ![Speed.Codes Academy](https://github.com/AhmadD95/SpeedCodesAgencyProject/blob/master/images/speed.codeswebsite.png)
 

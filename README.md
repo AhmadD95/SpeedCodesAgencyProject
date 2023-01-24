@@ -1,8 +1,8 @@
 # SpeedCodesAgencyProject
 
-![Speed.Codes Academy](https://github.com/AhmadD95/academyApp/blob/main/assets/images/Speed.Codes%20Line%20Black%20(2000%20%C3%97%20400%20px)%20(1).png)
+![Speed.Codes Academy](https://github.com/AhmadD95/SpeedCodesAgencyProject/blob/master/images/speed.codeswebsite.png)
 
-Click [here](https://ahmadd95.github.io/SpeedCodesAgencyProject/) and check out the web pages 
+Click [here](https://ahmadd95.github.io/SpeedCodesAgencyProject/) and check out the website 
 
 ## Author
 **Ahmad D.**
